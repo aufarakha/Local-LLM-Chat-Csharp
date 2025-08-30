@@ -46,7 +46,7 @@ The project is especially useful if you want:
 ### Prerequisites
 
 * Windows (Visual Studio environment recommended).
-* [.NET 6.0 or later](https://dotnet.microsoft.com/download).
+* [.NET 8.0](https://dotnet.microsoft.com/download).
 * A compatible **LLama GGUF model** file (e.g. LLaMA, Mistral, etc.).
 
 ### Steps
