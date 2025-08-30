@@ -102,6 +102,10 @@ The following parameters can be tuned in the settings panel:
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp)
 * Windows Forms (WinForms)
 
+## Credits
+
+* The `ChatBot.cs` class is adapted from [swharden/Local-LLM-csharp](https://github.com/swharden/Local-LLM-csharp/tree/main).
+
 ## 📜 License
 
 This project is licensed under the **MIT License**.
