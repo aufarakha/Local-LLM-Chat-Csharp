@@ -54,7 +54,7 @@ The project is especially useful if you want:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/Local-LLM-Chat.git
+   git clone https://github.com/aufarakha/Local-LLM-Chat.git
    cd Local-LLM-Chat
    ```
 2. Open the solution in **Visual Studio** (`Local-LLM-Chat.sln`).
