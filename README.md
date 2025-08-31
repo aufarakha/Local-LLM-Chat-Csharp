@@ -112,5 +112,3 @@ This project is licensed under the **MIT License**.
 See [LICENSE](LICENSE) for details.
 
 ---
-
-Would you like me to also include **screenshots** (UI from `Form1.Designer.cs`) in the README, so users can see the chat interface before running it?
